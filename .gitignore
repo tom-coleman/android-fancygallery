@@ -1,0 +1,15 @@
+*.iml
+/.gradle/
+/gradlew.bat
+/gradlew
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/*.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+apikey.properties
